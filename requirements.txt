@@ -1,0 +1,24 @@
+Python 3.8.6
+
+** Numpy
+pip install numpy
+
+** Pandas
+pip install pandas
+
+** Matplotlib
+pip install matplotlib
+
+** Seaborn
+pip install seaborn
+
+** Scikit-learn
+pip install -U scikit-learn
+
+** Tensorflow
+pip install tensorflow
+
+** Keras
+pip install Keras
+
+
